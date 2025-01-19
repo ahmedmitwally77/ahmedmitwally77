@@ -28,7 +28,7 @@ As a software engineer, I am passionate about staying up-to-date with the latest
 - Programming Skills: Proficient in JavaScript and TypeScript, with a focus on writing clean, maintainable, and efficient code.
 - Front-End Frameworks: Extensive experience with React, Redux, and Next.js for building dynamic, scalable applications.
 - Styling Tools: Expertise in Sass, Tailwind CSS, and Bootstrap for crafting responsive, pixel-perfect designs.
-- Back-End Integration: Hands-on experience working with GraphQL and integrating APIs seamlessly into front-end applications.
+- Back-End Integration: Hands-on experience working with integrating APIs seamlessly into front-end applications.
 - Core Foundations: A solid understanding of data structures, algorithms, object-oriented programming, and design patterns, enabling me to develop scalable and maintainable code.
 # Professional Skills
 - Experienced in agile development methodologies and effective collaboration within both small and large teams.
