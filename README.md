@@ -20,14 +20,14 @@
 
 ## 🚀 About Me
 
-My name is Ahmed Mitwally Essa, a passionate Front-End Developer with strong expertise in creating responsive and visually appealing web interfaces. I am currently a third-year student at the Faculty of Computers and Information, specializing in modern front-end development using technologies such as React.js, HTML, CSS, Tailwind CSS, Bootstrap, and jQuery.
+My name is Ahmed Mitwally Essa, a passionate Front-End Developer with strong expertise in creating responsive and visually appealing web interfaces. I am currently a third-year student at the Faculty of Computers and Information, specializing in modern front-end development using technologies such as React.js, HTML, CSS, SASS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, and jQuery.
 
 As a software engineer, I am passionate about staying up-to-date with the latest technologies and tools in the industry. I am always on the lookout for opportunities to learn, grow, and expand my skill set.
 
 # Technical Expertise
 - Programming Skills: Proficient in JavaScript and TypeScript, with a focus on writing clean, maintainable, and efficient code.
 - Front-End Frameworks: Extensive experience with React, Redux, and Next.js for building dynamic, scalable applications.
-- Styling Tools: Expertise in Sass, Tailwind CSS, and Bootstrap for crafting responsive, pixel-perfect designs.
+- Styling Tools: Expertise in Sass, Tailwind CSS, Material UI, Flowbite, and Bootstrap for crafting responsive, pixel-perfect designs.
 - Back-End Integration: Hands-on experience working with integrating APIs seamlessly into front-end applications.
 - Core Foundations: A solid understanding of data structures, algorithms, object-oriented programming, and design patterns, enabling me to develop scalable and maintainable code.
 # Professional Skills
