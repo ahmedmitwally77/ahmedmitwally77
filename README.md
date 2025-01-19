@@ -25,15 +25,16 @@ My name is Ahmed Metwally Eissa, a passionate Front-End Developer with strong ex
 As a software engineer, I am passionate about staying up-to-date with the latest technologies and tools in the industry. I am always on the lookout for opportunities to learn, grow, and expand my skill set.
 
 # Technical Expertise
-Programming Skills: Proficient in JavaScript and TypeScript, with a focus on writing clean, maintainable, and efficient code.
-Front-End Frameworks: Extensive experience with React, Redux, and Next.js for building dynamic, scalable applications.
-Styling Tools: Expertise in Sass, Tailwind CSS, and Bootstrap for crafting responsive, pixel-perfect designs.
-Back-End Integration: Hands-on experience working with GraphQL and integrating APIs seamlessly into front-end applications.
-Core Foundations: A solid understanding of data structures, algorithms, object-oriented programming, and design patterns, enabling me to develop scalable and maintainable code.
+- Programming Skills: Proficient in JavaScript and TypeScript, with a focus on writing clean, maintainable, and efficient code.
+- Front-End Frameworks: Extensive experience with React, Redux, and Next.js for building dynamic, scalable applications.
+- Styling Tools: Expertise in Sass, Tailwind CSS, and Bootstrap for crafting responsive, pixel-perfect designs.
+- Back-End Integration: Hands-on experience working with GraphQL and integrating APIs seamlessly into front-end applications.
+- Core Foundations: A solid understanding of data structures, algorithms, object-oriented programming, and design patterns, enabling me to develop scalable and maintainable code.
 # Professional Skills
-Experienced in agile development methodologies and effective collaboration within both small and large teams.
-Skilled in using project management tools such as Jira, Trello, and Asana, ensuring smooth communication and efficient project tracking.
-Strong ability to communicate project progress and updates to stakeholders, ensuring alignment and transparency throughout the development process.
+- Experienced in agile development methodologies and effective collaboration within both small and large teams.
+- Skilled in using project management tools such as Jira, Trello, and Asana, ensuring smooth communication and efficient project tracking.
+- Strong ability to communicate project progress and updates to stakeholders, ensuring alignment and transparency throughout the development process.
+
 Outside of work, I enjoy contributing to open-source projects and participating in coding communities. I believe in the importance of giving back to the tech community and helping others learn and grow.
 
 # Passion for Growth
@@ -42,9 +43,9 @@ Although I am at the beginning of my professional journey, I have worked on seve
 # What I Offer
 For your project, I bring:
 
-Tailored Solutions: Customized, user-centric designs aligned with your specific requirements.
-Efficient Workflows: Using tools like React.js, Tailwind CSS, and Bootstrap, I ensure pixel-perfect, responsive designs.
-Agile Communication: Transparent and frequent updates throughout the project lifecycle to meet timelines and exceed expectations.
+- Tailored Solutions: Customized, user-centric designs aligned with your specific requirements.
+- Efficient Workflows: Using tools like React.js, Tailwind CSS, and Bootstrap, I ensure pixel-perfect, responsive designs.
+- Agile Communication: Transparent and frequent updates throughout the project lifecycle to meet timelines and exceed expectations.
 
 
 You can explore my work and code samples on GitHub and connect with me on LinkedIn for further insights into my journey. Let’s create something remarkable together!
