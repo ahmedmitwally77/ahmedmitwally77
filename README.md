@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-My name is Ahmed Metwally Essa, a passionate Front-End Developer with strong expertise in creating responsive and visually appealing web interfaces. I am currently a third-year student at the Faculty of Computers and Information, specializing in modern front-end development using technologies such as React.js, HTML, CSS, Tailwind CSS, Bootstrap, and jQuery.
+My name is Ahmed Mitwally Essa, a passionate Front-End Developer with strong expertise in creating responsive and visually appealing web interfaces. I am currently a third-year student at the Faculty of Computers and Information, specializing in modern front-end development using technologies such as React.js, HTML, CSS, Tailwind CSS, Bootstrap, and jQuery.
 
 As a software engineer, I am passionate about staying up-to-date with the latest technologies and tools in the industry. I am always on the lookout for opportunities to learn, grow, and expand my skill set.
 
