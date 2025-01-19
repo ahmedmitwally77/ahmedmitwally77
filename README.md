@@ -16,26 +16,30 @@
 
 <br/> -->
 
-# 👩‍💻 Muhammad Naga (codeawy)
+# 👩‍💻 Ahmed Mitwally
 
-As a software engineer, I am passionate about staying up-to-date with the latest technologies and tools in the industry. I am always on the lookout for opportunities to learn, grow, and expand my skill set.
+My name is Ahmed Metwally Eissa, a passionate Front-End Developer with strong expertise in creating responsive and visually appealing web interfaces. I am currently a third-year student at the Faculty of Computers and Information, with a focus on developing modern front-end applications using technologies like React.js, HTML, CSS, Tailwind, Bootstrap, and jQuery.
 
-My solid foundation in data structures, algorithms, object-oriented programming, and design patterns has allowed me to develop efficient, maintainable, and scalable code. I am proficient in JavaScript and TypeScript and have extensive experience working with React and Redux. I have also worked with Next.js, GraphQl, Sass, Tailwind CSS, and other front-end technologies.
+Although I am at the beginning of my professional journey, I have worked on several self-driven projects to enhance my skills and build a strong foundation in front-end development. My dedication to continuous learning and self-improvement allows me to deliver innovative and high-quality solutions tailored to the client’s needs.
 
-In addition, I understand the importance of testing and have experience in both unit and integration testing. I am comfortable working with AWS, Docker, Git, and Github, and am always eager to learn more about these technologies and others.
+For your project, I am confident that my skills in [Relevant Skills/Tools] align perfectly with your requirements. I can provide [Unique Service, e.g., "highly optimized code" or "pixel-perfect design"] to ensure an outstanding result.
 
-I am a strong communicator and a collaborative team player and enjoy working in a fast-paced environment. I am also comfortable working independently and taking ownership of projects. I am constantly seeking new challenges and opportunities to learn and grow as a software engineer.
+Proposed Timeline:
 
-One of my greatest strengths is my ability to learn quickly and adapt to new technologies and tools. I am always looking for ways to expand my skill set and stay on top of the latest trends in the industry.
+Initial Deliverables: [Type of Work, e.g., "design mockups" or "prototype"] by [Date].
+Final Revisions and Delivery: by [Date].
+File Formats: [Specify formats, e.g., "HTML, CSS, and JavaScript"].
+Tools and Programs I’ll Use:
+I will utilize [Relevant Tools, e.g., "React.js, Tailwind CSS, and Bootstrap"] to ensure the project is completed to the highest standard.
 
-I am also committed to writing clean, maintainable, and efficient code. I understand the importance of code quality and strive to produce code that is easy to read, understand, and maintain.
+You can check out my previous work and code samples on my GitHub profile here: GitHub and connect with me on LinkedIn: LinkedIn.
 
-In addition, I am experienced in agile development methodologies and have worked in both small and large teams. I am comfortable with project management tools such as Jira, Trello, and Asana, and am able to effectively communicate project progress and status updates to stakeholders.
+🔗 My account on GitHub :
+https://lnkd.in/dmQUWKxN
 
-Outside of work, I enjoy contributing to open-source projects and participating in coding communities. I believe in the importance of giving back to the tech community and helping others learn and grow.
-
-Thank you for taking the time to learn more about me. I look forward to the opportunity to work with you and contribute my skills and knowledge to your team.
+🔗 My account on Linkedin :
+[https://lnkd.in/dmQUWKxN](https://www.linkedin.com/in/ahmed-mitwally-284538286/)
 
 # 🤹‍♀️ Skills
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /></div>
